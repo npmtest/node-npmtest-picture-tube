@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ picture-tube@1.0.0 </tspan>
+<tspan x="10" y="90">  ├── buffers@0.1.1 </tspan>
+<tspan x="10" y="106">  ├── charm@0.1.2 </tspan>
+<tspan x="10" y="122">  ├─┬ event-stream@0.9.8 </tspan>
+<tspan x="10" y="138">  │ └── optimist@0.2.8 </tspan>
+<tspan x="10" y="154">  ├─┬ optimist@0.3.7 </tspan>
+<tspan x="10" y="170">  │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="186">  ├── png-js@0.1.1 </tspan>
+<tspan x="10" y="202">  ├── request@2.9.203 </tspan>
+<tspan x="10" y="218">  └── x256@0.0.2</tspan>
+</text>
+</svg>
