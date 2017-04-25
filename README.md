@@ -1,6 +1,6 @@
 # npmtest-picture-tube
 
-#### test coverage for  [picture-tube (v1.0.0)](https://github.com/substack/picture-tube#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-picture-tube.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-picture-tube) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-picture-tube.svg)](https://travis-ci.org/npmtest/node-npmtest-picture-tube)
+#### basic test coverage for  [picture-tube (v1.0.0)](https://github.com/substack/picture-tube#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-picture-tube.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-picture-tube) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-picture-tube.svg)](https://travis-ci.org/npmtest/node-npmtest-picture-tube)
 
 #### render 256 color images on the terminal
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-picture-tube/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-picture-tube/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-picture-tube/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-picture-tube/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-picture-tube/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-picture-tube/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-picture-tube/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-picture-tube/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-picture-tube/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-picture-tube/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-picture-tube/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-picture-tube/build/coverage.html/index.html)
 

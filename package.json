@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [picture-tube (v1.0.0)](https://github.com/substack/picture-tube#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-picture-tube.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-picture-tube) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-picture-tube.svg)](https://travis-ci.org/npmtest/node-npmtest-picture-tube)",
+    "description": "#### basic test coverage for  [picture-tube (v1.0.0)](https://github.com/substack/picture-tube#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-picture-tube.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-picture-tube) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-picture-tube.svg)](https://travis-ci.org/npmtest/node-npmtest-picture-tube)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "picture-tube": "*",
